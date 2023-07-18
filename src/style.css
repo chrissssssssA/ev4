@@ -1,0 +1,21 @@
+
+.detalle-carta {
+    /* Agrega tus estilos personalizados aquí */
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+    padding: 10px;
+    /* ... */
+  }
+.element {
+    text-align: match-parent;
+  }
+body {
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+}
+th {
+    text-align: -webkit-match-parent;
+}
+.buttom {
+    color: aqua;
+}
